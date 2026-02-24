@@ -1,4 +1,4 @@
-package mx.avanti.desarrollo.persistence;
+package mx.desarrollo.persistence;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.EntityManagerFactory;

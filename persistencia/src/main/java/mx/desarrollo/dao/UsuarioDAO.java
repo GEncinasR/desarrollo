@@ -1,7 +1,7 @@
-package mx.avanti.desarrollo.dao;
+package mx.desarrollo.dao;
 
 import jakarta.persistence.EntityManager;
-import mx.avanti.desarrollo.persistence.AbstractDAO;
+import mx.desarrollo.persistence.AbstractDAO;
 import mx.desarrollo.entity.Usuario;
 
 import java.util.List;

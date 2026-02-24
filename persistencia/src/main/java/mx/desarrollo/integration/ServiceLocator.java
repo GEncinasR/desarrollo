@@ -1,9 +1,9 @@
-package mx.avanti.desarrollo.integration;
+package mx.desarrollo.integration;
 
 import jakarta.persistence.EntityManager;
-import mx.avanti.desarrollo.dao.AlumnoDAO;
-import mx.avanti.desarrollo.dao.UsuarioDAO;
-import mx.avanti.desarrollo.persistence.HibernateUtil;
+import mx.desarrollo.dao.AlumnoDAO;
+import mx.desarrollo.dao.UsuarioDAO;
+import mx.desarrollo.persistence.HibernateUtil;
 
 /**
  *

@@ -1,7 +1,7 @@
 package mx.desarrollo.delegate;
 
 import mx.desarrollo.entity.Usuario;
-import mx.avanti.desarrollo.integration.ServiceLocator;
+import mx.desarrollo.integration.ServiceLocator;
 
 import java.util.List;
 
